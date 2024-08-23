@@ -2,7 +2,8 @@
 
 *"Committed Full Stack Developer and Expert in Machine Learning with a Passion for Innovation"*
 
-![Profile views](https://gpvc.arturio.dev/glaston-velvarts)
+![Profile views](https://komarev.com/ghpvc/?username=glaston-velvarts&color=blue)
+
 
 ### 🏆 GitHub Trophies
 <div>
