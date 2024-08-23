@@ -14,7 +14,7 @@
 
 ### 🌱 I’m currently learning React.js
 
-### 👨‍💻 All of my projects are available at [m-folio-glaston-velvarts-04s-projects.vercel.app](https://termfolio-gamma.vercel.app/)
+### 👨‍💻 All of my projects are available at [Termfolio](https://termfolio-gamma.vercel.app/)
 
 ### 🧑‍🏫 Ask me about **C++, Python, Machine Learning**
 
