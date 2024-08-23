@@ -54,5 +54,6 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glaston-velvarts)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glastonvelvarts&layout=compact&theme=default)
+
 
