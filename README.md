@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me **glastonvelvart@gmail.com**
 
-### 📝 Know about my experiences [View Resume]([https://drive.google.com/file/d/1yz4gBzZ6Bh2J8WjtbGfgMwyZau4dZZm/view?usp=drive_link](https://drive.google.com/file/d/1sNS6I-7pc90PgdisyT9Xxv1VuCUAzhzJ/view?usp=sharing))
+### 📝 Know about my experiences [View Resume](https://drive.google.com/file/d/1yz4gBzZ6Bh2J8WjtbGfgMwyZau4dZZm/view?usp=drive_link)(https://drive.google.com/file/d/1sNS6I-7pc90PgdisyT9Xxv1VuCUAzhzJ/view?usp=sharing))
 
 ### ⚡ Fun fact: **I have a knack for solving puzzles and often draw inspiration from futuristic concepts.**
 
