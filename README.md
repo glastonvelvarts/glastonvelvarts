@@ -19,7 +19,7 @@
 
 ### 🧑‍🏫 Ask me about **C++, Python, Machine Learning**
 
-### 📫 How to reach me [📧](glastonvelvart@gmail.com)
+### 📫 How to reach me [📧](https://glastonvelvart@gmail.com/)
 
 ### 📝 Know about my experiences using [View Resume](https://drive.google.com/file/d/1gdEjDFg0iOuXJEfNRJL1NCix3p2NIvyi/view?usp=sharing)
 
