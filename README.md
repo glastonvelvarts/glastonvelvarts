@@ -6,15 +6,15 @@
 
 
 
+
 ### 🏆 GitHub Trophies
 
-
-   <div align="center">
-     <img src="./.github/assets/github-trophy.svg" alt="GitHub Trophies" />
-   </div>
-   
+<div align="center">
+  <img src="./.github/assets/github-trophy.svg" alt="GitHub Trophies" />
+</div>
 
 ---
+
 
 
 ### 🌱 I’m currently learning React.js
