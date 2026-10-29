@@ -1,6 +1,6 @@
 # Hi 👋, I'm Glaston Velvarts
 
-*"Committed Full Stack Developer and Expert in Machine Learning with a Passion for Innovation"*
+*"AI Engineer specializing in Inference Engineering, LLM Systems, and Backend Development."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=glaston-velvarts&color=blue)
 
