@@ -5,13 +5,15 @@
 ![Profile views](https://komarev.com/ghpvc/?username=glaston-velvarts&color=blue)
 
 
-### 🏆 GitHub Trophies
-<div>
- <img src="https://github-profile-trophy.vercel.app/?username=glastonvelvarts&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=glastonvelvarts&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
+
 
 ### 🌱 I’m currently learning React.js
 
