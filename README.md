@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me [📧](https://glastonvelvart@gmail.com/)
 
-### 📝 Know about my experiences using [View Resume](https://drive.google.com/file/d/1gdEjDFg0iOuXJEfNRJL1NCix3p2NIvyi/view?usp=sharing)
+### 📝 Know about my experiences using [View Resume](https://drive.google.com/file/d/10fGgtmbDLTnrJbwC7OcFKcVYSGw-Nfhi/view?usp=drive_link)
 
 ### ⚡ Fun fact: **I have a knack for solving puzzles and often draw inspiration from futuristic concepts.**
 
@@ -29,7 +29,7 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/glaston-velvarts-624252195/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/glastonvelvarts_joel/)
 
 ---
 
