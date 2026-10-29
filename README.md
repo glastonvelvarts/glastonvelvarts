@@ -8,9 +8,11 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=glastonvelvarts&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+
+   <div align="center">
+     <img src="./.github/assets/github-trophy.svg" alt="GitHub Trophies" />
+   </div>
+   
 
 ---
 
