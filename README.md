@@ -1,4 +1,8 @@
- <p align="center">
+ <h1 align="center">GLASTON VELVARTS</h1>
+
+<h3 align="center">AI ENGINEER · INFERENCE SYSTEMS · SOFTWARE ENGINEERING</h3>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+intelligent+systems.;Exploring+the+internals+of+LLM+inference.;Engineering+software+beyond+the+abstraction.;Turning+ideas+into+working+systems." alt="Typing introduction" />
 </p>
 
@@ -12,10 +16,6 @@
   <a href="https://www.linkedin.com/in/glaston-velvarts-624252195/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  AI Engineer working across LLM inference, machine learning, and software engineering.
 </p>
 
 ---
@@ -48,12 +48,12 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,pytorch,docker,postgres,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,pytorch,docker,postgres,redis,linux,git" alt="Tech stack" />
 </p>
 
 <p align="center">
   <a href="https://termfolio-gamma.vercel.app/">Portfolio</a> ·
-  <a href="https://drive.google.com/file/d/10FgtmbDLTnrJbwC7OcFKcVYSGw-Nfhi/view?usp=drive_link">Resume</a> ·
+  <a href="https://drive.google.com/file/d/10fGgtmbDLTnrJbwC7OcFKcVYSGw-Nfhi/view?usp=drive_link">Resume</a> ·
   <a href="mailto:glastonvelvart@gmail.com">Email</a>
 </p>
 
@@ -61,8 +61,12 @@
 
 ### GitHub Trophies
 
-<!-- Keep your existing GitHub trophy embed here -->
+<p align="center">
+  <img src="./.github/assets/github-trophy.svg" alt="GitHub Trophies" />
+</p>
 
 ### Most Used Languages
 
-<!-- Keep your existing Most Used Languages embed here -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=glastonvelvarts&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
